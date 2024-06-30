@@ -14,7 +14,7 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        <Route element={<Navbar />} />
+        <Route index element={<Navbar />} />
         <Route path="header" element={<Header/>} />
         <Route index element={<Header />} />
         <Route path="category" element={<Category />} />
@@ -22,8 +22,9 @@ function App() {
         <Route path="easyandfast" element={<Easyandfast />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
-      <Route element={<Footer />} />
+      {/* <Route element={} /> */}
       </Routes>
+      <Footer />
     </BrowserRouter>
     {/* <Navbar/> */}
     {/* <Header /> */}
