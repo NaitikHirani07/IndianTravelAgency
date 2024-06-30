@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IndianTravelAgency/static/css/main.b0b7cccd.css",
-    "main.js": "/IndianTravelAgency/static/js/main.2e16e7a3.js",
+    "main.js": "/IndianTravelAgency/static/js/main.b962faa1.js",
     "static/js/453.9b02bdb5.chunk.js": "/IndianTravelAgency/static/js/453.9b02bdb5.chunk.js",
     "static/media/header_travel.png": "/IndianTravelAgency/static/media/header_travel.a5d5a7b3a3b07fe2de8c.png",
     "static/media/right_easyandfast_backimg_top.jpg": "/IndianTravelAgency/static/media/right_easyandfast_backimg_top.e48b6ccd4584f7f8a702.jpg",
@@ -12,11 +12,11 @@
     "static/media/Card_second.jpg": "/IndianTravelAgency/static/media/Card_second.04fba73ebd7812da4011.jpg",
     "index.html": "/IndianTravelAgency/index.html",
     "main.b0b7cccd.css.map": "/IndianTravelAgency/static/css/main.b0b7cccd.css.map",
-    "main.2e16e7a3.js.map": "/IndianTravelAgency/static/js/main.2e16e7a3.js.map",
+    "main.b962faa1.js.map": "/IndianTravelAgency/static/js/main.b962faa1.js.map",
     "453.9b02bdb5.chunk.js.map": "/IndianTravelAgency/static/js/453.9b02bdb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b7cccd.css",
-    "static/js/main.2e16e7a3.js"
+    "static/js/main.b962faa1.js"
   ]
 }
