@@ -15,6 +15,7 @@ function App() {
     <BrowserRouter>
     <Navbar />
       <Routes>
+        <Route path="header" element={<Header/>} />
         <Route index element={<Header />} />
         <Route path="category" element={<Category />} />
         <Route path="topselling" element={<Topselling />} />
