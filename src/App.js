@@ -16,7 +16,7 @@ function App() {
     <Navbar/>
     <Header/>
       <Routes>
-        {/* <Route index element={<Header />} /> */}
+        <Route index element={<Header />} />
         <Route path="category" element={<Category />} />
         <Route path="topselling" element={<Topselling />} />
         <Route path="easyandfast" element={<Easyandfast />} />
