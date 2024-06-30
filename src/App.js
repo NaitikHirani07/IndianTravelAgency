@@ -13,8 +13,8 @@ function App() {
   return (
     <>
     <BrowserRouter>
-    <Navbar />
       <Routes>
+        <Route element={<Navbar />} />
         <Route path="header" element={<Header/>} />
         <Route index element={<Header />} />
         <Route path="category" element={<Category />} />
@@ -22,8 +22,8 @@ function App() {
         <Route path="easyandfast" element={<Easyandfast />} />
         <Route path="about" element={<About />} />
         <Route path="contact" element={<Contact />} />
+      <Route element={<Footer />} />
       </Routes>
-      <Footer />
     </BrowserRouter>
     {/* <Navbar/> */}
     {/* <Header /> */}
