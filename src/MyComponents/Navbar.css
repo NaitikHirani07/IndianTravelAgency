@@ -1,0 +1,89 @@
+.nav-item{
+    margin-left: 100px;
+}
+@media (max-width:376px) {
+    .navbar .logo img{
+        width: 60px;
+    }
+    .navbar-toggler{
+        border: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    }
+}
+@media (max-width:415px) {
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    }
+}
+@media (max-width:431px) {
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    }
+}
+@media (max-width:769px) {
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    }
+}
+@media (max-width:821px) {
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    }
+}
+@media (max-width:1025px) {
+    .navbar-toggler{
+        border: none;
+        box-shadow: none;
+        outline: none;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+        outline: none;
+    }
+    .nav-item{
+        margin-left: 0;
+    } 
+}

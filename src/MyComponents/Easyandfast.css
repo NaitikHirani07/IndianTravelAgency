@@ -1,0 +1,28 @@
+.left_easyandfast_body_one_right, .left_easyandfast_body_two_right, .left_easyandfast_body_three_right{
+    color: #5E6282;
+}
+.left_easyandfast_header h1{
+    color: #14183E;
+}
+.left_easyandfast_header h6{
+    color: #5E6282;
+}
+.fa-leaf, .fa-map, .fa-paper-plane{
+    background-color: #84829a79;
+    color: #F5F5F5;
+}
+.right_easyandfast_backimg{
+    width: 70%;
+}
+.right_easyandfast_backimg_bottom_header p{
+    color: #84829A;
+}
+.right_easyandfast_backimg_bottom_footer .fa-building, span{
+    color: #84829A;
+}
+.right_easyandfast_backimg_bottom_footer .fa-heart{
+    color: #4152CA;
+}
+.right_easyandfast_backimg{
+    box-shadow: -2px 2px 10px 2px #84829ab5;
+}

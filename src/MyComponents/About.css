@@ -1,0 +1,6 @@
+.left_about_one i, .left_about_two i, .left_about_three i, .left_about_four i{
+    color: #ffc107;
+}
+.left_about_one .left_about_one_body p, .left_about_two .left_about_two_body p, .left_about_three .left_about_three_body p, .left_about_four .left_about_four_body p{
+    color: #5E6282;
+}
