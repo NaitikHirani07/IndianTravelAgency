@@ -28,9 +28,6 @@ export default function Navbar() {
                             <li className="nav-item">
                                 <Link className="nav-link fw-bold text-dark" to="/easyandfast">Bookings</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link fw-bold text-dark" to="#">Hotels</Link>
-                            </li>
                         </ul>
                     </div>
                 </div>
