@@ -1,4 +1,5 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+// import { HashRouter, Route, Routes } from 'react-router-dom';
+import { Route, HashRouter as Router, Routes } from 'react-router-dom';
 import './App.css';
 import About from './MyComponents/About';
 import Category from './MyComponents/Category';
@@ -12,9 +13,8 @@ import Topselling from './MyComponents/Topselling';
 function App() {
   return (
     <>
-    <BrowserRouter>
+    <Router>
     <Navbar/>
-    <Header/>
       <Routes>
         <Route index element={<Header />} />
         <Route path="category" element={<Category />} />
@@ -24,7 +24,7 @@ function App() {
         <Route path="contact" element={<Contact />} />
       </Routes>
       <Footer />
-    </BrowserRouter>
+    </Router>
     {/* <Navbar/> */}
     {/* <Header /> */}
     {/* <Category /> */}
